@@ -32,14 +32,14 @@ tagline {
   font-weight: 700;
   font-family: 'Rokkitt', sans-serif;
 }
-h2 {
-  color: #b7b7b7;
-}
 .linkBlock {
   border: 1px solid #D3D3D3;
   padding: 40px;
   margin-top: 20px;
   background: #E5E5E5;
+}
+.divider {
+  height: 60px;
 }
 li.text {
   margin: 10px;
@@ -57,6 +57,21 @@ li.text {
   color: #D11642;
   list-style: none;
   font-size: 1.2em;
+}
+.textAreas ul {
+  list-style: none;
+  font-size: 17px;
+  padding-left: 5px;
+  margin-left: 0em;
+}
+.textAreas ul li {
+  border-bottom: 1px solid #D4D4D4;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+p.quote {
+  font-style: italic;
+  font-size: 20px !important;
 }
 .navbar {
   right: 0;
