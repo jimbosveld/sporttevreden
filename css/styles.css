@@ -5,7 +5,7 @@
 body {
   position: absolute;
   overflow-x: hidden;
-  background: url(/assets/img/ticks1.png);
+  background: url(./sporttevreden/assets/img/ticks1.png);
   font-family: 'Open Sans', sans-serif;
 }
 .container.two,
